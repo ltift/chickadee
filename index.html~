@@ -70,7 +70,8 @@
                 background: 0;
             }
             body {
-                font-family: 'Princess Sofia', cursive;
+              font-family: 'Tangerine', serif;
+              font-size: 48px;
             }
         </style>
     </head>
